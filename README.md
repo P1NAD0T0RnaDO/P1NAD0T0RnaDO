@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I am Yash,
 
-<!--
-**P1NAD0T0RnaDO/P1NAD0T0RnaDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I'm a Third Year student
+- 🔭 I’m currently working on a small project to build a browser of my own though it's still in the works 
+- 🌱 I’m currently learning - Web Dev and AI development
+- 📫 How to reach me: yashsharma221105@gmail.com 
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills I'm Learning
+- Programming: C, C#, Rust
+- Web: Html, CSS, JavaScript
+- Tools: Git, Linux, Neovim
+
+---
+
+<!-- Add more later dummy 🙃 -->
